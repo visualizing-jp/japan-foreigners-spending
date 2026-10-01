@@ -1,0 +1,4899 @@
+[
+ {
+  "period": "2010",
+  "year": 2010,
+  "quarter": null,
+  "status": "annual",
+  "overall": 11490,
+  "overallPerCapita": 133766,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 133766,
+    "visitors": 8611175,
+    "total": 11490
+   },
+   {
+    "name": "韓国",
+    "perCapita": 80875,
+    "visitors": 2439816,
+    "total": 1973
+   },
+   {
+    "name": "台湾",
+    "perCapita": 103888,
+    "visitors": 1268278,
+    "total": 1318
+   },
+   {
+    "name": "香港",
+    "perCapita": 116582,
+    "visitors": 508691,
+    "total": 593
+   },
+   {
+    "name": "中国",
+    "perCapita": 176784,
+    "visitors": 1412875,
+    "total": 2498
+   },
+   {
+    "name": "タイ",
+    "perCapita": 143424,
+    "visitors": 214881,
+    "total": 308
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 164937,
+    "visitors": 180960,
+    "total": 298
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 131075,
+    "visitors": 114519,
+    "total": 150
+   },
+   {
+    "name": "インド",
+    "perCapita": 177315,
+    "visitors": 66819,
+    "total": 118
+   },
+   {
+    "name": "英国",
+    "perCapita": 160603,
+    "visitors": 184045,
+    "total": 296
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 160505,
+    "visitors": 124360,
+    "total": 200
+   },
+   {
+    "name": "フランス",
+    "perCapita": 232668,
+    "visitors": 151011,
+    "total": 351
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 223052,
+    "visitors": 51457,
+    "total": 115
+   },
+   {
+    "name": "米国",
+    "perCapita": 159414,
+    "visitors": 727234,
+    "total": 1159
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 124316,
+    "visitors": 153303,
+    "total": 191
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 169445,
+    "visitors": 225751,
+    "total": 383
+   },
+   {
+    "name": "その他",
+    "perCapita": 195512,
+    "visitors": 787175,
+    "total": 1539
+   }
+  ]
+ },
+ {
+  "period": "2011",
+  "year": 2011,
+  "quarter": null,
+  "status": "annual",
+  "overall": 8135,
+  "overallPerCapita": 130819,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 130819,
+    "visitors": 6218747,
+    "total": 8135
+   },
+   {
+    "name": "韓国",
+    "perCapita": 75626,
+    "visitors": 1658067,
+    "total": 1254
+   },
+   {
+    "name": "台湾",
+    "perCapita": 106503,
+    "visitors": 993972,
+    "total": 1059
+   },
+   {
+    "name": "香港",
+    "perCapita": 117978,
+    "visitors": 364864,
+    "total": 430
+   },
+   {
+    "name": "中国",
+    "perCapita": 188295,
+    "visitors": 1043245,
+    "total": 1964
+   },
+   {
+    "name": "タイ",
+    "perCapita": 144030,
+    "visitors": 144969,
+    "total": 209
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 145196,
+    "visitors": 111354,
+    "total": 162
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 148006,
+    "visitors": 81516,
+    "total": 121
+   },
+   {
+    "name": "インド",
+    "perCapita": 145950,
+    "visitors": 59354,
+    "total": 87
+   },
+   {
+    "name": "英国",
+    "perCapita": 158340,
+    "visitors": 140099,
+    "total": 222
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 139168,
+    "visitors": 80772,
+    "total": 112
+   },
+   {
+    "name": "フランス",
+    "perCapita": 160696,
+    "visitors": 95438,
+    "total": 153
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 212641,
+    "visitors": 33797,
+    "total": 72
+   },
+   {
+    "name": "米国",
+    "perCapita": 143718,
+    "visitors": 565887,
+    "total": 813
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 140119,
+    "visitors": 101299,
+    "total": 142
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 198429,
+    "visitors": 162578,
+    "total": 323
+   },
+   {
+    "name": "その他",
+    "perCapita": 174175,
+    "visitors": 581536,
+    "total": 1013
+   }
+  ]
+ },
+ {
+  "period": "2012",
+  "year": 2012,
+  "quarter": null,
+  "status": "annual",
+  "overall": 10861,
+  "overallPerCapita": 129798,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 129798,
+    "visitors": 8367872,
+    "total": 10861
+   },
+   {
+    "name": "韓国",
+    "perCapita": 71707,
+    "visitors": 2044249,
+    "total": 1466
+   },
+   {
+    "name": "台湾",
+    "perCapita": 112379,
+    "visitors": 1466688,
+    "total": 1648
+   },
+   {
+    "name": "香港",
+    "perCapita": 135951,
+    "visitors": 481704,
+    "total": 655
+   },
+   {
+    "name": "中国",
+    "perCapita": 187970,
+    "visitors": 1429855,
+    "total": 2688
+   },
+   {
+    "name": "タイ",
+    "perCapita": 127174,
+    "visitors": 260859,
+    "total": 332
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 129821,
+    "visitors": 142253,
+    "total": 185
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 130847,
+    "visitors": 130288,
+    "total": 170
+   },
+   {
+    "name": "インド",
+    "perCapita": 159059,
+    "visitors": 69097,
+    "total": 110
+   },
+   {
+    "name": "英国",
+    "perCapita": 162572,
+    "visitors": 174159,
+    "total": 283
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 150623,
+    "visitors": 108953,
+    "total": 164
+   },
+   {
+    "name": "フランス",
+    "perCapita": 165157,
+    "visitors": 130520,
+    "total": 216
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 185079,
+    "visitors": 50244,
+    "total": 93
+   },
+   {
+    "name": "米国",
+    "perCapita": 136470,
+    "visitors": 717372,
+    "total": 979
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 159597,
+    "visitors": 135481,
+    "total": 216
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 196978,
+    "visitors": 206537,
+    "total": 407
+   },
+   {
+    "name": "その他",
+    "perCapita": 152514,
+    "visitors": 819613,
+    "total": 1250
+   }
+  ]
+ },
+ {
+  "period": "2013",
+  "year": 2013,
+  "quarter": null,
+  "status": "annual",
+  "overall": 14167,
+  "overallPerCapita": 136693,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 136693,
+    "visitors": 10363904,
+    "total": 14167
+   },
+   {
+    "name": "韓国",
+    "perCapita": 80529,
+    "visitors": 2456165,
+    "total": 1978
+   },
+   {
+    "name": "台湾",
+    "perCapita": 111956,
+    "visitors": 2210821,
+    "total": 2475
+   },
+   {
+    "name": "香港",
+    "perCapita": 141351,
+    "visitors": 745881,
+    "total": 1054
+   },
+   {
+    "name": "中国",
+    "perCapita": 209898,
+    "visitors": 1314437,
+    "total": 2759
+   },
+   {
+    "name": "タイ",
+    "perCapita": 126904,
+    "visitors": 453642,
+    "total": 576
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 164247,
+    "visitors": 189280,
+    "total": 311
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 144784,
+    "visitors": 176521,
+    "total": 256
+   },
+   {
+    "name": "インド",
+    "perCapita": 144644,
+    "visitors": 75095,
+    "total": 109
+   },
+   {
+    "name": "英国",
+    "perCapita": 171545,
+    "visitors": 191798,
+    "total": 329
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 156285,
+    "visitors": 121776,
+    "total": 190
+   },
+   {
+    "name": "フランス",
+    "perCapita": 203913,
+    "visitors": 154892,
+    "total": 316
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 210305,
+    "visitors": 60502,
+    "total": 127
+   },
+   {
+    "name": "米国",
+    "perCapita": 170368,
+    "visitors": 799280,
+    "total": 1362
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 188719,
+    "visitors": 152766,
+    "total": 288
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 213055,
+    "visitors": 244569,
+    "total": 521
+   },
+   {
+    "name": "その他",
+    "perCapita": 149153,
+    "visitors": 1016479,
+    "total": 1516
+   }
+  ]
+ },
+ {
+  "period": "2014",
+  "year": 2014,
+  "quarter": null,
+  "status": "annual",
+  "overall": 20278,
+  "overallPerCapita": 151174,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 151174,
+    "visitors": 13413467,
+    "total": 20278
+   },
+   {
+    "name": "韓国",
+    "perCapita": 75852,
+    "visitors": 2755313,
+    "total": 2090
+   },
+   {
+    "name": "台湾",
+    "perCapita": 125248,
+    "visitors": 2829821,
+    "total": 3544
+   },
+   {
+    "name": "香港",
+    "perCapita": 147958,
+    "visitors": 925975,
+    "total": 1370
+   },
+   {
+    "name": "中国",
+    "perCapita": 231753,
+    "visitors": 2409158,
+    "total": 5583
+   },
+   {
+    "name": "タイ",
+    "perCapita": 146029,
+    "visitors": 657570,
+    "total": 960
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 155792,
+    "visitors": 227962,
+    "total": 355
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 145466,
+    "visitors": 249521,
+    "total": 363
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 119884,
+    "visitors": 158739,
+    "total": 190
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 105284,
+    "visitors": 184204,
+    "total": 194
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 237688,
+    "visitors": 124266,
+    "total": 295
+   },
+   {
+    "name": "インド",
+    "perCapita": 167530,
+    "visitors": 87967,
+    "total": 147
+   },
+   {
+    "name": "英国",
+    "perCapita": 187239,
+    "visitors": 220060,
+    "total": 412
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 148774,
+    "visitors": 140254,
+    "total": 209
+   },
+   {
+    "name": "フランス",
+    "perCapita": 194685,
+    "visitors": 178570,
+    "total": 348
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 201588,
+    "visitors": 64077,
+    "total": 129
+   },
+   {
+    "name": "米国",
+    "perCapita": 165381,
+    "visitors": 891668,
+    "total": 1475
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 170599,
+    "visitors": 182865,
+    "total": 312
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 227823,
+    "visitors": 302656,
+    "total": 690
+   },
+   {
+    "name": "その他",
+    "perCapita": 195795,
+    "visitors": 822821,
+    "total": 1611
+   }
+  ]
+ },
+ {
+  "period": "2015",
+  "year": 2015,
+  "quarter": null,
+  "status": "annual",
+  "overall": 34771,
+  "overallPerCapita": 176167,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 34771,
+    "values": [
+     8974,
+     6420,
+     3678,
+     1058,
+     14539,
+     102
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 3008,
+    "values": [
+     900,
+     729,
+     337,
+     132,
+     888,
+     22
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 5207,
+    "values": [
+     1326,
+     948,
+     562,
+     183,
+     2188,
+     1
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 2627,
+    "values": [
+     643,
+     540,
+     262,
+     72,
+     1100,
+     10
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 14174,
+    "values": [
+     2503,
+     2113,
+     1094,
+     315,
+     8088,
+     61
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1201,
+    "values": [
+     332,
+     229,
+     162,
+     46,
+     428,
+     3
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 579,
+    "values": [
+     197,
+     120,
+     63,
+     12,
+     187,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 459,
+    "values": [
+     137,
+     99,
+     53,
+     19,
+     151,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 302,
+    "values": [
+     104,
+     57,
+     50,
+     8,
+     83,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 340,
+    "values": [
+     98,
+     73,
+     39,
+     15,
+     115,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 361,
+    "values": [
+     93,
+     77,
+     41,
+     10,
+     139,
+     1
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 153,
+    "values": [
+     61,
+     38,
+     20,
+     2,
+     32,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 545,
+    "values": [
+     251,
+     120,
+     77,
+     16,
+     81,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 278,
+    "values": [
+     112,
+     57,
+     57,
+     13,
+     39,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 448,
+    "values": [
+     181,
+     89,
+     79,
+     20,
+     79,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 209,
+    "values": [
+     81,
+     51,
+     40,
+     6,
+     32,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 175,
+    "values": [
+     65,
+     40,
+     35,
+     7,
+     29,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 99,
+    "values": [
+     32,
+     19,
+     13,
+     4,
+     30,
+     1
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 1814,
+    "values": [
+     765,
+     422,
+     263,
+     61,
+     302,
+     1
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 395,
+    "values": [
+     141,
+     84,
+     72,
+     20,
+     78,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 870,
+    "values": [
+     343,
+     199,
+     137,
+     53,
+     138,
+     1
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 1526,
+    "values": [
+     610,
+     316,
+     223,
+     44,
+     333,
+     1
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 176167,
+    "visitors": null,
+    "total": 34771
+   },
+   {
+    "name": "韓国",
+    "perCapita": 75169,
+    "visitors": null,
+    "total": 3008
+   },
+   {
+    "name": "台湾",
+    "perCapita": 141620,
+    "visitors": null,
+    "total": 5207
+   },
+   {
+    "name": "香港",
+    "perCapita": 172356,
+    "visitors": null,
+    "total": 2627
+   },
+   {
+    "name": "中国",
+    "perCapita": 283842,
+    "visitors": null,
+    "total": 14174
+   },
+   {
+    "name": "タイ",
+    "perCapita": 150679,
+    "visitors": null,
+    "total": 1201
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 187383,
+    "visitors": null,
+    "total": 579
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 150423,
+    "visitors": null,
+    "total": 459
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 147149,
+    "visitors": null,
+    "total": 302
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 126567,
+    "visitors": null,
+    "total": 340
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 194840,
+    "visitors": null,
+    "total": 361
+   },
+   {
+    "name": "インド",
+    "perCapita": 148340,
+    "visitors": null,
+    "total": 153
+   },
+   {
+    "name": "英国",
+    "perCapita": 210681,
+    "visitors": null,
+    "total": 545
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 171031,
+    "visitors": null,
+    "total": 278
+   },
+   {
+    "name": "フランス",
+    "perCapita": 209333,
+    "visitors": null,
+    "total": 448
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 202077,
+    "visitors": null,
+    "total": 209
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 227288,
+    "visitors": null,
+    "total": 175
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 182484,
+    "visitors": null,
+    "total": 99
+   },
+   {
+    "name": "米国",
+    "perCapita": 175554,
+    "visitors": null,
+    "total": 1814
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 170696,
+    "visitors": null,
+    "total": 395
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 231349,
+    "visitors": null,
+    "total": 870
+   },
+   {
+    "name": "その他",
+    "perCapita": 178179,
+    "visitors": null,
+    "total": 1526
+   }
+  ]
+ },
+ {
+  "period": "2016",
+  "year": 2016,
+  "quarter": null,
+  "status": "annual",
+  "overall": 37476,
+  "overallPerCapita": 155896,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 37476,
+    "values": [
+     10140,
+     7574,
+     4288,
+     1136,
+     14261,
+     77
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 3577,
+    "values": [
+     1124,
+     908,
+     382,
+     155,
+     996,
+     12
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 5245,
+    "values": [
+     1402,
+     1109,
+     589,
+     172,
+     1964,
+     9
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 2947,
+    "values": [
+     763,
+     636,
+     319,
+     81,
+     1147,
+     1
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 14754,
+    "values": [
+     2812,
+     2482,
+     1269,
+     320,
+     7832,
+     39
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1150,
+    "values": [
+     311,
+     233,
+     149,
+     43,
+     409,
+     4
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 591,
+    "values": [
+     212,
+     126,
+     90,
+     12,
+     146,
+     5
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 522,
+    "values": [
+     162,
+     109,
+     78,
+     14,
+     158,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 370,
+    "values": [
+     128,
+     61,
+     74,
+     14,
+     94,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 390,
+    "values": [
+     115,
+     92,
+     47,
+     17,
+     119,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 435,
+    "values": [
+     115,
+     127,
+     46,
+     10,
+     138,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 177,
+    "values": [
+     75,
+     34,
+     24,
+     3,
+     41,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 532,
+    "values": [
+     234,
+     121,
+     88,
+     19,
+     70,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 313,
+    "values": [
+     145,
+     68,
+     54,
+     9,
+     37,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 479,
+    "values": [
+     191,
+     103,
+     88,
+     20,
+     77,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 236,
+    "values": [
+     94,
+     54,
+     46,
+     11,
+     31,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 206,
+    "values": [
+     85,
+     45,
+     41,
+     6,
+     29,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 105,
+    "values": [
+     34,
+     17,
+     12,
+     4,
+     36,
+     2
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 2130,
+    "values": [
+     879,
+     511,
+     346,
+     67,
+     324,
+     2
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 423,
+    "values": [
+     151,
+     99,
+     78,
+     14,
+     80,
+     1
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1099,
+    "values": [
+     444,
+     228,
+     179,
+     80,
+     167,
+     1
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 1794,
+    "values": [
+     663,
+     410,
+     290,
+     64,
+     366,
+     0
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 155896,
+    "visitors": null,
+    "total": 37476
+   },
+   {
+    "name": "韓国",
+    "perCapita": 70281,
+    "visitors": null,
+    "total": 3577
+   },
+   {
+    "name": "台湾",
+    "perCapita": 125854,
+    "visitors": null,
+    "total": 5245
+   },
+   {
+    "name": "香港",
+    "perCapita": 160230,
+    "visitors": null,
+    "total": 2947
+   },
+   {
+    "name": "中国",
+    "perCapita": 231504,
+    "visitors": null,
+    "total": 14754
+   },
+   {
+    "name": "タイ",
+    "perCapita": 127583,
+    "visitors": null,
+    "total": 1150
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 163210,
+    "visitors": null,
+    "total": 591
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 132353,
+    "visitors": null,
+    "total": 522
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 136619,
+    "visitors": null,
+    "total": 370
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 112228,
+    "visitors": null,
+    "total": 390
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 186138,
+    "visitors": null,
+    "total": 435
+   },
+   {
+    "name": "インド",
+    "perCapita": 144275,
+    "visitors": null,
+    "total": 177
+   },
+   {
+    "name": "英国",
+    "perCapita": 181795,
+    "visitors": null,
+    "total": 532
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 171009,
+    "visitors": null,
+    "total": 313
+   },
+   {
+    "name": "フランス",
+    "perCapita": 189006,
+    "visitors": null,
+    "total": 479
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 198000,
+    "visitors": null,
+    "total": 236
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 224072,
+    "visitors": null,
+    "total": 206
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 190874,
+    "visitors": null,
+    "total": 105
+   },
+   {
+    "name": "米国",
+    "perCapita": 171418,
+    "visitors": null,
+    "total": 2130
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 154977,
+    "visitors": null,
+    "total": 423
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 246866,
+    "visitors": null,
+    "total": 1099
+   },
+   {
+    "name": "その他",
+    "perCapita": 183083,
+    "visitors": null,
+    "total": 1794
+   }
+  ]
+ },
+ {
+  "period": "2017",
+  "year": 2017,
+  "quarter": null,
+  "status": "annual",
+  "overall": 44162,
+  "overallPerCapita": 153921,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 44162,
+    "values": [
+     12451,
+     8857,
+     4870,
+     1439,
+     16398,
+     147
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 5126,
+    "values": [
+     1598,
+     1316,
+     535,
+     262,
+     1394,
+     21
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 5744,
+    "values": [
+     1503,
+     1187,
+     652,
+     203,
+     2184,
+     14
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 3416,
+    "values": [
+     953,
+     739,
+     392,
+     103,
+     1228,
+     0
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 16947,
+    "values": [
+     3508,
+     2816,
+     1346,
+     408,
+     8777,
+     91
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1250,
+    "values": [
+     365,
+     230,
+     145,
+     41,
+     467,
+     2
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 664,
+    "values": [
+     255,
+     135,
+     77,
+     18,
+     179,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 597,
+    "values": [
+     187,
+     124,
+     93,
+     20,
+     173,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 456,
+    "values": [
+     150,
+     81,
+     78,
+     18,
+     128,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 482,
+    "values": [
+     133,
+     101,
+     57,
+     23,
+     168,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 566,
+    "values": [
+     151,
+     134,
+     51,
+     7,
+     223,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 212,
+    "values": [
+     93,
+     42,
+     29,
+     4,
+     42,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 669,
+    "values": [
+     302,
+     159,
+     101,
+     21,
+     86,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 356,
+    "values": [
+     160,
+     76,
+     55,
+     8,
+     57,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 571,
+    "values": [
+     233,
+     121,
+     104,
+     22,
+     90,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 241,
+    "values": [
+     109,
+     50,
+     45,
+     7,
+     29,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 212,
+    "values": [
+     78,
+     49,
+     45,
+     7,
+     33,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 154,
+    "values": [
+     49,
+     32,
+     19,
+     7,
+     47,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 2503,
+    "values": [
+     1055,
+     575,
+     392,
+     91,
+     386,
+     6
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 549,
+    "values": [
+     220,
+     128,
+     93,
+     22,
+     87,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1118,
+    "values": [
+     441,
+     248,
+     175,
+     70,
+     184,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 2331,
+    "values": [
+     908,
+     514,
+     387,
+     76,
+     436,
+     10
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 153921,
+    "visitors": 28691073,
+    "total": 44162
+   },
+   {
+    "name": "韓国",
+    "perCapita": 71795,
+    "visitors": 7140165,
+    "total": 5126
+   },
+   {
+    "name": "台湾",
+    "perCapita": 125847,
+    "visitors": 4564053,
+    "total": 5744
+   },
+   {
+    "name": "香港",
+    "perCapita": 153055,
+    "visitors": 2231568,
+    "total": 3416
+   },
+   {
+    "name": "中国",
+    "perCapita": 230382,
+    "visitors": 7355818,
+    "total": 16947
+   },
+   {
+    "name": "タイ",
+    "perCapita": 126569,
+    "visitors": 987211,
+    "total": 1250
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 164281,
+    "visitors": 404132,
+    "total": 664
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 135750,
+    "visitors": 439548,
+    "total": 597
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 129394,
+    "visitors": 352330,
+    "total": 456
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 113659,
+    "visitors": 424121,
+    "total": 482
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 183236,
+    "visitors": 308898,
+    "total": 566
+   },
+   {
+    "name": "インド",
+    "perCapita": 157443,
+    "visitors": 134371,
+    "total": 212
+   },
+   {
+    "name": "英国",
+    "perCapita": 215392,
+    "visitors": 310499,
+    "total": 669
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 182207,
+    "visitors": 195606,
+    "total": 356
+   },
+   {
+    "name": "フランス",
+    "perCapita": 212442,
+    "visitors": 268605,
+    "total": 571
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 191482,
+    "visitors": 125864,
+    "total": 241
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 212584,
+    "visitors": 99814,
+    "total": 212
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 199236,
+    "visitors": 77251,
+    "total": 154
+   },
+   {
+    "name": "米国",
+    "perCapita": 182071,
+    "visitors": 1374964,
+    "total": 2503
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 179525,
+    "visitors": 305591,
+    "total": 549
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 225845,
+    "visitors": 495054,
+    "total": 1118
+   },
+   {
+    "name": "その他",
+    "perCapita": 212750,
+    "visitors": 1095610,
+    "total": 2331
+   }
+  ]
+ },
+ {
+  "period": "2018",
+  "year": 2018,
+  "quarter": null,
+  "status": "annual",
+  "overall": 45189,
+  "overallPerCapita": 153029,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 45189,
+    "values": [
+     13212,
+     9783,
+     4674,
+     1738,
+     15763,
+     20
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 5881,
+    "values": [
+     1880,
+     1502,
+     575,
+     295,
+     1626,
+     4
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 5817,
+    "values": [
+     1585,
+     1275,
+     614,
+     228,
+     2115,
+     1
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 3358,
+    "values": [
+     988,
+     801,
+     362,
+     110,
+     1096,
+     1
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 15450,
+    "values": [
+     3100,
+     2619,
+     1094,
+     521,
+     8110,
+     6
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1407,
+    "values": [
+     416,
+     313,
+     170,
+     50,
+     456,
+     2
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 753,
+    "values": [
+     275,
+     180,
+     87,
+     28,
+     182,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 639,
+    "values": [
+     208,
+     141,
+     76,
+     30,
+     184,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 558,
+    "values": [
+     189,
+     115,
+     83,
+     22,
+     149,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 591,
+    "values": [
+     149,
+     143,
+     69,
+     29,
+     200,
+     1
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 730,
+    "values": [
+     216,
+     170,
+     73,
+     23,
+     247,
+     1
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 247,
+    "values": [
+     115,
+     52,
+     33,
+     6,
+     41,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 720,
+    "values": [
+     327,
+     182,
+     108,
+     27,
+     76,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 409,
+    "values": [
+     180,
+     101,
+     60,
+     13,
+     54,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 656,
+    "values": [
+     260,
+     173,
+     102,
+     22,
+     99,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 334,
+    "values": [
+     131,
+     86,
+     59,
+     11,
+     47,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 281,
+    "values": [
+     110,
+     74,
+     50,
+     9,
+     39,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 177,
+    "values": [
+     59,
+     41,
+     21,
+     7,
+     49,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 2893,
+    "values": [
+     1240,
+     764,
+     412,
+     119,
+     358,
+     1
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 594,
+    "values": [
+     241,
+     153,
+     89,
+     26,
+     84,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1315,
+    "values": [
+     537,
+     319,
+     189,
+     88,
+     181,
+     1
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 2379,
+    "values": [
+     1006,
+     577,
+     351,
+     76,
+     371,
+     0
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 153029,
+    "visitors": 28854053,
+    "total": 44155
+   },
+   {
+    "name": "韓国",
+    "perCapita": 78084,
+    "visitors": 7525853,
+    "total": 5876
+   },
+   {
+    "name": "台湾",
+    "perCapita": 127579,
+    "visitors": 4487436,
+    "total": 5725
+   },
+   {
+    "name": "香港",
+    "perCapita": 154581,
+    "visitors": 2165311,
+    "total": 3347
+   },
+   {
+    "name": "中国",
+    "perCapita": 224870,
+    "visitors": 6476719,
+    "total": 14564
+   },
+   {
+    "name": "タイ",
+    "perCapita": 124421,
+    "visitors": 1129456,
+    "total": 1405
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 172821,
+    "visitors": 435029,
+    "total": 752
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 137612,
+    "visitors": 463367,
+    "total": 638
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 141419,
+    "visitors": 393754,
+    "total": 557
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 121921,
+    "visitors": 473079,
+    "total": 577
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 188376,
+    "visitors": 387199,
+    "total": 729
+   },
+   {
+    "name": "インド",
+    "perCapita": 161423,
+    "visitors": 152495,
+    "total": 246
+   },
+   {
+    "name": "英国",
+    "perCapita": 220929,
+    "visitors": 324679,
+    "total": 717
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 191736,
+    "visitors": 212906,
+    "total": 408
+   },
+   {
+    "name": "フランス",
+    "perCapita": 215786,
+    "visitors": 303952,
+    "total": 656
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 223555,
+    "visitors": 149273,
+    "total": 334
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 237234,
+    "visitors": 118378,
+    "total": 281
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 188256,
+    "visitors": 93599,
+    "total": 176
+   },
+   {
+    "name": "米国",
+    "perCapita": 191539,
+    "visitors": 1507362,
+    "total": 2887
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 183218,
+    "visitors": 322487,
+    "total": 591
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 242041,
+    "visitors": 541870,
+    "total": 1312
+   },
+   {
+    "name": "その他",
+    "perCapita": 199728,
+    "visitors": 1189849,
+    "total": 2376
+   }
+  ]
+ },
+ {
+  "period": "2019",
+  "year": 2019,
+  "quarter": null,
+  "status": "annual",
+  "overall": 48135,
+  "overallPerCapita": 158531,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 48135,
+    "values": [
+     14132,
+     10397,
+     4986,
+     1908,
+     16690,
+     22
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 4247,
+    "values": [
+     1415,
+     1177,
+     436,
+     208,
+     1006,
+     5
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 5517,
+    "values": [
+     1512,
+     1215,
+     624,
+     198,
+     1966,
+     1
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 3525,
+    "values": [
+     1040,
+     831,
+     365,
+     100,
+     1186,
+     2
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 17704,
+    "values": [
+     3615,
+     2947,
+     1220,
+     554,
+     9365,
+     2
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1732,
+    "values": [
+     507,
+     400,
+     200,
+     60,
+     561,
+     5
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 852,
+    "values": [
+     311,
+     212,
+     94,
+     26,
+     209,
+     1
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 665,
+    "values": [
+     223,
+     158,
+     87,
+     27,
+     168,
+     1
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 539,
+    "values": [
+     185,
+     111,
+     82,
+     19,
+     142,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 659,
+    "values": [
+     187,
+     164,
+     73,
+     33,
+     203,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 875,
+    "values": [
+     241,
+     229,
+     89,
+     25,
+     291,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 274,
+    "values": [
+     128,
+     57,
+     38,
+     8,
+     42,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 999,
+    "values": [
+     425,
+     256,
+     139,
+     91,
+     87,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 465,
+    "values": [
+     206,
+     113,
+     72,
+     18,
+     57,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 798,
+    "values": [
+     336,
+     200,
+     120,
+     37,
+     104,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 324,
+    "values": [
+     136,
+     85,
+     53,
+     10,
+     40,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 288,
+    "values": [
+     118,
+     75,
+     49,
+     13,
+     33,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 218,
+    "values": [
+     78,
+     54,
+     23,
+     10,
+     53,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 3228,
+    "values": [
+     1414,
+     821,
+     443,
+     148,
+     400,
+     1
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 670,
+    "values": [
+     277,
+     168,
+     106,
+     32,
+     87,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1519,
+    "values": [
+     608,
+     380,
+     220,
+     113,
+     198,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 3040,
+    "values": [
+     1170,
+     744,
+     454,
+     178,
+     492,
+     2
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 158531,
+    "visitors": 29855742,
+    "total": 47331
+   },
+   {
+    "name": "韓国",
+    "perCapita": 76138,
+    "visitors": 5568997,
+    "total": 4240
+   },
+   {
+    "name": "台湾",
+    "perCapita": 118288,
+    "visitors": 4609007,
+    "total": 5452
+   },
+   {
+    "name": "香港",
+    "perCapita": 155951,
+    "visitors": 2252080,
+    "total": 3512
+   },
+   {
+    "name": "中国",
+    "perCapita": 212810,
+    "visitors": 7995815,
+    "total": 17016
+   },
+   {
+    "name": "タイ",
+    "perCapita": 131457,
+    "visitors": 1316885,
+    "total": 1731
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 173669,
+    "visitors": 489969,
+    "total": 851
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 133259,
+    "visitors": 497655,
+    "total": 663
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 131087,
+    "visitors": 410288,
+    "total": 538
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 107915,
+    "visitors": 609549,
+    "total": 658
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 177066,
+    "visitors": 494251,
+    "total": 875
+   },
+   {
+    "name": "インド",
+    "perCapita": 157244,
+    "visitors": 173692,
+    "total": 273
+   },
+   {
+    "name": "英国",
+    "perCapita": 241264,
+    "visitors": 412848,
+    "total": 996
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 201483,
+    "visitors": 229430,
+    "total": 462
+   },
+   {
+    "name": "フランス",
+    "perCapita": 237420,
+    "visitors": 335862,
+    "total": 797
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 199450,
+    "visitors": 162074,
+    "total": 323
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 221331,
+    "visitors": 129895,
+    "total": 287
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 183015,
+    "visitors": 118684,
+    "total": 217
+   },
+   {
+    "name": "米国",
+    "perCapita": 189411,
+    "visitors": 1700805,
+    "total": 3222
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 181795,
+    "visitors": 366758,
+    "total": 667
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 247868,
+    "visitors": 610955,
+    "total": 1514
+   },
+   {
+    "name": "その他",
+    "perCapita": 221514,
+    "visitors": 1370243,
+    "total": 3035
+   }
+  ]
+ },
+ {
+  "period": "2020",
+  "year": 2020,
+  "quarter": null,
+  "status": "estimate",
+  "overall": 7446,
+  "overallPerCapita": 185413,
+  "byCategory": null,
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 185413,
+    "visitors": 3995868,
+    "total": 7409
+   },
+   {
+    "name": "韓国",
+    "perCapita": 87900,
+    "visitors": 487772,
+    "total": 429
+   },
+   {
+    "name": "台湾",
+    "perCapita": 159722,
+    "visitors": 676128,
+    "total": 1080
+   },
+   {
+    "name": "香港",
+    "perCapita": 168544,
+    "visitors": 341236,
+    "total": 575
+   },
+   {
+    "name": "中国",
+    "perCapita": 256566,
+    "visitors": 976442,
+    "total": 2505
+   },
+   {
+    "name": "タイ",
+    "perCapita": 139715,
+    "visitors": 219798,
+    "total": 307
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 182664,
+    "visitors": 55204,
+    "total": 101
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 123935,
+    "visitors": 76492,
+    "total": 95
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 153448,
+    "visitors": 77658,
+    "total": 119
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 103287,
+    "visitors": 108907,
+    "total": 112
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 263497,
+    "visitors": 152551,
+    "total": 402
+   },
+   {
+    "name": "インド",
+    "perCapita": 191373,
+    "visitors": 26880,
+    "total": 51
+   },
+   {
+    "name": "英国",
+    "perCapita": 205332,
+    "visitors": 50713,
+    "total": 104
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 192165,
+    "visitors": 29758,
+    "total": 57
+   },
+   {
+    "name": "フランス",
+    "perCapita": 189911,
+    "visitors": 43085,
+    "total": 82
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 229426,
+    "visitors": 13655,
+    "total": 31
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 190762,
+    "visitors": 11723,
+    "total": 22
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 157432,
+    "visitors": 21800,
+    "total": 34
+   },
+   {
+    "name": "米国",
+    "perCapita": 208402,
+    "visitors": 218764,
+    "total": 456
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 180290,
+    "visitors": 52920,
+    "total": 95
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 238826,
+    "visitors": 142627,
+    "total": 341
+   },
+   {
+    "name": "その他",
+    "perCapita": 193127,
+    "visitors": 211755,
+    "total": 409
+   }
+  ]
+ },
+ {
+  "period": "2021",
+  "year": 2021,
+  "quarter": null,
+  "status": "estimate",
+  "overall": 1208,
+  "overallPerCapita": null,
+  "byCategory": null,
+  "perCapita": null
+ },
+ {
+  "period": "2022",
+  "year": 2022,
+  "quarter": null,
+  "status": "estimate",
+  "overall": 8987,
+  "overallPerCapita": 234524,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 8987,
+    "values": [
+     3071,
+     2032,
+     920,
+     597,
+     2361,
+     6
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 1352,
+    "values": [
+     427,
+     346,
+     118,
+     129,
+     329,
+     2
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 759,
+    "values": [
+     202,
+     144,
+     66,
+     24,
+     323,
+     0
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 762,
+    "values": [
+     201,
+     167,
+     67,
+     28,
+     300,
+     0
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 1092,
+    "values": [
+     288,
+     214,
+     70,
+     210,
+     310,
+     0
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 397,
+    "values": [
+     113,
+     93,
+     47,
+     12,
+     133,
+     0
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 346,
+    "values": [
+     125,
+     73,
+     38,
+     9,
+     100,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 155,
+    "values": [
+     61,
+     33,
+     19,
+     6,
+     37,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 230,
+    "values": [
+     88,
+     51,
+     27,
+     8,
+     54,
+     1
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 167,
+    "values": [
+     61,
+     36,
+     17,
+     4,
+     50,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 618,
+    "values": [
+     191,
+     147,
+     65,
+     27,
+     187,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 144,
+    "values": [
+     64,
+     33,
+     15,
+     6,
+     25,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 173,
+    "values": [
+     80,
+     38,
+     21,
+     5,
+     29,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 114,
+    "values": [
+     52,
+     27,
+     17,
+     4,
+     14,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 143,
+    "values": [
+     58,
+     33,
+     20,
+     8,
+     23,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 69,
+    "values": [
+     31,
+     16,
+     9,
+     3,
+     10,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 49,
+    "values": [
+     20,
+     12,
+     7,
+     4,
+     6,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 46,
+    "values": [
+     16,
+     10,
+     4,
+     8,
+     7,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 959,
+    "values": [
+     431,
+     224,
+     120,
+     28,
+     156,
+     0
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 114,
+    "values": [
+     46,
+     26,
+     16,
+     5,
+     23,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 291,
+    "values": [
+     115,
+     66,
+     37,
+     13,
+     60,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 1009,
+    "values": [
+     399,
+     244,
+     121,
+     57,
+     186,
+     2
+    ]
+   }
+  ],
+  "perCapita": null
+ },
+ {
+  "period": "2023",
+  "year": 2023,
+  "quarter": null,
+  "status": "annual",
+  "overall": 53065,
+  "overallPerCapita": 212764,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 53065,
+    "values": [
+     18345,
+     11955,
+     5999,
+     2700,
+     14043,
+     24
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 7392,
+    "values": [
+     2421,
+     2042,
+     646,
+     419,
+     1858,
+     6
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 7835,
+    "values": [
+     2203,
+     1671,
+     798,
+     414,
+     2742,
+     8
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 4800,
+    "values": [
+     1483,
+     1124,
+     472,
+     212,
+     1506,
+     3
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 7604,
+    "values": [
+     2086,
+     1435,
+     612,
+     557,
+     2913,
+     2
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 1925,
+    "values": [
+     589,
+     452,
+     258,
+     72,
+     554,
+     0
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 1714,
+    "values": [
+     652,
+     358,
+     203,
+     68,
+     433,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 931,
+    "values": [
+     323,
+     201,
+     110,
+     36,
+     261,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 852,
+    "values": [
+     308,
+     165,
+     115,
+     34,
+     228,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 1103,
+    "values": [
+     357,
+     229,
+     128,
+     52,
+     337,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 1213,
+    "values": [
+     366,
+     277,
+     129,
+     51,
+     390,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 385,
+    "values": [
+     159,
+     73,
+     53,
+     11,
+     89,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 1050,
+    "values": [
+     480,
+     223,
+     150,
+     44,
+     152,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 693,
+    "values": [
+     318,
+     159,
+     105,
+     25,
+     85,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 912,
+    "values": [
+     401,
+     198,
+     137,
+     33,
+     143,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 509,
+    "values": [
+     221,
+     125,
+     82,
+     19,
+     62,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 389,
+    "values": [
+     158,
+     93,
+     72,
+     17,
+     50,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 108,
+    "values": [
+     43,
+     29,
+     16,
+     3,
+     17,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 6070,
+    "values": [
+     2652,
+     1372,
+     828,
+     268,
+     947,
+     4
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 1181,
+    "values": [
+     496,
+     278,
+     169,
+     51,
+     187,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 2088,
+    "values": [
+     855,
+     469,
+     301,
+     133,
+     329,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 4311,
+    "values": [
+     1773,
+     983,
+     614,
+     179,
+     762,
+     0
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 212764,
+    "visitors": 24899890,
+    "total": 52978
+   },
+   {
+    "name": "韓国",
+    "perCapita": 106312,
+    "visitors": 6943876,
+    "total": 7382
+   },
+   {
+    "name": "台湾",
+    "perCapita": 189116,
+    "visitors": 4127407,
+    "total": 7806
+   },
+   {
+    "name": "香港",
+    "perCapita": 227360,
+    "visitors": 2109955,
+    "total": 4797
+   },
+   {
+    "name": "中国",
+    "perCapita": 320125,
+    "visitors": 2362886,
+    "total": 7564
+   },
+   {
+    "name": "タイ",
+    "perCapita": 193409,
+    "visitors": 995451,
+    "total": 1925
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 289881,
+    "visitors": 591236,
+    "total": 1714
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 224078,
+    "visitors": 415493,
+    "total": 931
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 198442,
+    "visitors": 429262,
+    "total": 852
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 177315,
+    "visitors": 622115,
+    "total": 1103
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 211330,
+    "visitors": 573806,
+    "total": 1213
+   },
+   {
+    "name": "インド",
+    "perCapita": 231539,
+    "visitors": 166385,
+    "total": 385
+   },
+   {
+    "name": "英国",
+    "perCapita": 327505,
+    "visitors": 320531,
+    "total": 1050
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 301712,
+    "visitors": 228903,
+    "total": 691
+   },
+   {
+    "name": "フランス",
+    "perCapita": 329332,
+    "visitors": 276815,
+    "total": 912
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 334346,
+    "visitors": 152102,
+    "total": 509
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 336130,
+    "visitors": 115694,
+    "total": 389
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 258694,
+    "visitors": 41924,
+    "total": 108
+   },
+   {
+    "name": "米国",
+    "perCapita": 296813,
+    "visitors": 2044896,
+    "total": 6070
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 277433,
+    "visitors": 425554,
+    "total": 1181
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 340661,
+    "visitors": 612887,
+    "total": 2088
+   },
+   {
+    "name": "その他",
+    "perCapita": 320989,
+    "visitors": 1342712,
+    "total": 4310
+   }
+  ]
+ },
+ {
+  "period": "2024",
+  "year": 2024,
+  "quarter": null,
+  "status": "annual",
+  "overall": 81257,
+  "overallPerCapita": 226851,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 81257,
+    "values": [
+     27331,
+     17440,
+     8698,
+     3817,
+     23952,
+     18
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 9602,
+    "values": [
+     3042,
+     2604,
+     814,
+     598,
+     2543,
+     1
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 10897,
+    "values": [
+     3105,
+     2264,
+     1048,
+     463,
+     4014,
+     2
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 6606,
+    "values": [
+     1962,
+     1427,
+     606,
+     236,
+     2363,
+     12
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 17265,
+    "values": [
+     4469,
+     3050,
+     1347,
+     759,
+     7640,
+     1
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 2264,
+    "values": [
+     697,
+     520,
+     255,
+     75,
+     715,
+     1
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 2004,
+    "values": [
+     753,
+     453,
+     206,
+     71,
+     521,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 1092,
+    "values": [
+     374,
+     230,
+     138,
+     63,
+     287,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 1109,
+    "values": [
+     381,
+     223,
+     153,
+     52,
+     300,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 1510,
+    "values": [
+     469,
+     308,
+     154,
+     75,
+     504,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 1374,
+    "values": [
+     457,
+     316,
+     136,
+     60,
+     405,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 562,
+    "values": [
+     242,
+     109,
+     80,
+     20,
+     110,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 1658,
+    "values": [
+     738,
+     358,
+     234,
+     84,
+     244,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 1050,
+    "values": [
+     477,
+     238,
+     156,
+     37,
+     141,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 1387,
+    "values": [
+     570,
+     303,
+     215,
+     56,
+     243,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 821,
+    "values": [
+     336,
+     194,
+     149,
+     32,
+     110,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 670,
+    "values": [
+     268,
+     149,
+     124,
+     30,
+     99,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 319,
+    "values": [
+     119,
+     73,
+     43,
+     14,
+     69,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 9011,
+    "values": [
+     3860,
+     1966,
+     1150,
+     449,
+     1586,
+     0
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 1765,
+    "values": [
+     721,
+     400,
+     246,
+     84,
+     315,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 3492,
+    "values": [
+     1494,
+     745,
+     455,
+     273,
+     525,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 6798,
+    "values": [
+     2798,
+     1509,
+     987,
+     285,
+     1218,
+     0
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 226851,
+    "visitors": 35613630,
+    "total": 80790
+   },
+   {
+    "name": "韓国",
+    "perCapita": 109103,
+    "visitors": 8794372,
+    "total": 9595
+   },
+   {
+    "name": "台湾",
+    "perCapita": 187512,
+    "visitors": 5773161,
+    "total": 10825
+   },
+   {
+    "name": "香港",
+    "perCapita": 248882,
+    "visitors": 2651216,
+    "total": 6598
+   },
+   {
+    "name": "中国",
+    "perCapita": 276604,
+    "visitors": 6110349,
+    "total": 16901
+   },
+   {
+    "name": "タイ",
+    "perCapita": 197305,
+    "visitors": 1147048,
+    "total": 2263
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 291047,
+    "visitors": 688307,
+    "total": 2003
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 216437,
+    "visitors": 503958,
+    "total": 1091
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 215034,
+    "visitors": 515468,
+    "total": 1108
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 185518,
+    "visitors": 813288,
+    "total": 1509
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 221401,
+    "visitors": 620249,
+    "total": 1373
+   },
+   {
+    "name": "インド",
+    "perCapita": 241590,
+    "visitors": 232342,
+    "total": 561
+   },
+   {
+    "name": "英国",
+    "perCapita": 381318,
+    "visitors": 434708,
+    "total": 1658
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 333027,
+    "visitors": 314831,
+    "total": 1048
+   },
+   {
+    "name": "フランス",
+    "perCapita": 360952,
+    "visitors": 384145,
+    "total": 1387
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 358471,
+    "visitors": 229031,
+    "total": 821
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 368428,
+    "visitors": 181872,
+    "total": 670
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 327325,
+    "visitors": 97146,
+    "total": 318
+   },
+   {
+    "name": "米国",
+    "perCapita": 331976,
+    "visitors": 2713492,
+    "total": 9008
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 306272,
+    "visitors": 576053,
+    "total": 1764
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 380492,
+    "visitors": 917449,
+    "total": 3491
+   },
+   {
+    "name": "その他",
+    "perCapita": 354834,
+    "visitors": 1915145,
+    "total": 6796
+   }
+  ]
+ },
+ {
+  "period": "2025",
+  "year": 2025,
+  "quarter": null,
+  "status": "annual",
+  "overall": 94549,
+  "overallPerCapita": 228782,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 94549,
+    "values": [
+     34578,
+     20688,
+     9449,
+     4236,
+     25541,
+     58
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 9906,
+    "values": [
+     3428,
+     2701,
+     841,
+     511,
+     2423,
+     3
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 12033,
+    "values": [
+     3798,
+     2614,
+     1147,
+     508,
+     3955,
+     12
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 5614,
+    "values": [
+     1856,
+     1350,
+     509,
+     185,
+     1714,
+     1
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 20058,
+    "values": [
+     5881,
+     4145,
+     1558,
+     844,
+     7619,
+     10
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 2527,
+    "values": [
+     839,
+     554,
+     253,
+     80,
+     801,
+     0
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 2308,
+    "values": [
+     832,
+     468,
+     217,
+     63,
+     727,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 1406,
+    "values": [
+     482,
+     290,
+     156,
+     55,
+     424,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 1309,
+    "values": [
+     530,
+     248,
+     156,
+     51,
+     324,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 1636,
+    "values": [
+     563,
+     331,
+     149,
+     72,
+     520,
+     1
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 2055,
+    "values": [
+     1001,
+     478,
+     126,
+     43,
+     406,
+     1
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 785,
+    "values": [
+     359,
+     159,
+     98,
+     30,
+     139,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 2076,
+    "values": [
+     1023,
+     436,
+     253,
+     82,
+     283,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 1655,
+    "values": [
+     759,
+     341,
+     224,
+     72,
+     258,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 1641,
+    "values": [
+     717,
+     337,
+     220,
+     71,
+     296,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 1096,
+    "values": [
+     467,
+     259,
+     167,
+     43,
+     159,
+     1
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 888,
+    "values": [
+     382,
+     205,
+     123,
+     36,
+     143,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 565,
+    "values": [
+     256,
+     110,
+     53,
+     22,
+     124,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 11186,
+    "values": [
+     4855,
+     2292,
+     1324,
+     497,
+     2216,
+     2
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 2202,
+    "values": [
+     907,
+     491,
+     289,
+     133,
+     382,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 4067,
+    "values": [
+     1666,
+     887,
+     439,
+     370,
+     704,
+     1
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 9534,
+    "values": [
+     3976,
+     1992,
+     1148,
+     470,
+     1924,
+     25
+    ]
+   }
+  ],
+  "perCapita": [
+   {
+    "name": "全国籍・地域",
+    "perCapita": 228782,
+    "visitors": 41135081,
+    "total": 94110
+   },
+   {
+    "name": "韓国",
+    "perCapita": 105058,
+    "visitors": 9420144,
+    "total": 9897
+   },
+   {
+    "name": "台湾",
+    "perCapita": 184413,
+    "visitors": 6484286,
+    "total": 11958
+   },
+   {
+    "name": "香港",
+    "perCapita": 226011,
+    "visitors": 2481393,
+    "total": 5608
+   },
+   {
+    "name": "中国",
+    "perCapita": 246550,
+    "visitors": 8005441,
+    "total": 19737
+   },
+   {
+    "name": "タイ",
+    "perCapita": 205246,
+    "visitors": 1230929,
+    "total": 2526
+   },
+   {
+    "name": "シンガポール",
+    "perCapita": 319901,
+    "visitors": 720879,
+    "total": 2306
+   },
+   {
+    "name": "マレーシア",
+    "perCapita": 222322,
+    "visitors": 631992,
+    "total": 1405
+   },
+   {
+    "name": "インドネシア",
+    "perCapita": 205276,
+    "visitors": 637382,
+    "total": 1308
+   },
+   {
+    "name": "フィリピン",
+    "perCapita": 187760,
+    "visitors": 869592,
+    "total": 1633
+   },
+   {
+    "name": "ベトナム",
+    "perCapita": 303379,
+    "visitors": 677124,
+    "total": 2054
+   },
+   {
+    "name": "インド",
+    "perCapita": 249807,
+    "visitors": 314181,
+    "total": 785
+   },
+   {
+    "name": "英国",
+    "perCapita": 391320,
+    "visitors": 530238,
+    "total": 2075
+   },
+   {
+    "name": "ドイツ",
+    "perCapita": 392251,
+    "visitors": 421380,
+    "total": 1653
+   },
+   {
+    "name": "フランス",
+    "perCapita": 359869,
+    "visitors": 455975,
+    "total": 1641
+   },
+   {
+    "name": "イタリア",
+    "perCapita": 357002,
+    "visitors": 306949,
+    "total": 1096
+   },
+   {
+    "name": "スペイン",
+    "perCapita": 362767,
+    "visitors": 244828,
+    "total": 888
+   },
+   {
+    "name": "ロシア",
+    "perCapita": 307105,
+    "visitors": 182507,
+    "total": 560
+   },
+   {
+    "name": "米国",
+    "perCapita": 339708,
+    "visitors": 3291885,
+    "total": 11183
+   },
+   {
+    "name": "カナダ",
+    "perCapita": 322489,
+    "visitors": 682279,
+    "total": 2200
+   },
+   {
+    "name": "オーストラリア",
+    "perCapita": 386512,
+    "visitors": 1051815,
+    "total": 4065
+   },
+   {
+    "name": "その他",
+    "perCapita": 382136,
+    "visitors": 2493882,
+    "total": 9530
+   }
+  ]
+ },
+ {
+  "period": "2026Q1",
+  "year": 2026,
+  "quarter": 1,
+  "status": "preliminary",
+  "overall": 23373,
+  "overallPerCapita": null,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 23373,
+    "values": [
+     8538,
+     5356,
+     2314,
+     1247,
+     5904,
+     13
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 3179,
+    "values": [
+     1070,
+     904,
+     289,
+     147,
+     768,
+     1
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 3888,
+    "values": [
+     1221,
+     830,
+     379,
+     189,
+     1269,
+     0
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 1482,
+    "values": [
+     493,
+     365,
+     139,
+     73,
+     412,
+     0
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 2740,
+    "values": [
+     877,
+     607,
+     198,
+     167,
+     890,
+     1
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 867,
+    "values": [
+     264,
+     197,
+     99,
+     34,
+     273,
+     0
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 483,
+    "values": [
+     181,
+     115,
+     49,
+     24,
+     114,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 412,
+    "values": [
+     157,
+     84,
+     50,
+     20,
+     101,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 438,
+    "values": [
+     164,
+     95,
+     50,
+     18,
+     111,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 426,
+    "values": [
+     134,
+     87,
+     41,
+     19,
+     146,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 769,
+    "values": [
+     409,
+     152,
+     47,
+     16,
+     145,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 161,
+    "values": [
+     63,
+     31,
+     21,
+     7,
+     38,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 539,
+    "values": [
+     241,
+     122,
+     63,
+     33,
+     80,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 376,
+    "values": [
+     164,
+     87,
+     46,
+     24,
+     55,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 360,
+    "values": [
+     146,
+     83,
+     39,
+     15,
+     78,
+     1
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 171,
+    "values": [
+     70,
+     40,
+     22,
+     7,
+     31,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 174,
+    "values": [
+     70,
+     44,
+     20,
+     9,
+     31,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 108,
+    "values": [
+     49,
+     21,
+     11,
+     5,
+     22,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 2600,
+    "values": [
+     1056,
+     598,
+     306,
+     124,
+     511,
+     6
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 588,
+    "values": [
+     240,
+     125,
+     64,
+     39,
+     115,
+     4
+    ]
+   },
+   {
+    "name": "メキシコ",
+    "total": 186,
+    "values": [
+     65,
+     38,
+     20,
+     11,
+     52,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1397,
+    "values": [
+     591,
+     281,
+     153,
+     156,
+     215,
+     0
+    ]
+   },
+   {
+    "name": "北欧",
+    "total": 170,
+    "values": [
+     67,
+     37,
+     16,
+     9,
+     41,
+     0
+    ]
+   },
+   {
+    "name": "中東",
+    "total": 160,
+    "values": [
+     60,
+     35,
+     14,
+     4,
+     47,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 1696,
+    "values": [
+     687,
+     377,
+     177,
+     96,
+     359,
+     0
+    ]
+   }
+  ],
+  "perCapita": null
+ },
+ {
+  "period": "2026Q2",
+  "year": 2026,
+  "quarter": 2,
+  "status": "preliminary",
+  "overall": 25125,
+  "overallPerCapita": null,
+  "byCategory": [
+   {
+    "name": "全国籍・地域",
+    "total": 25125,
+    "values": [
+     9207,
+     5463,
+     2527,
+     1090,
+     6821,
+     18
+    ]
+   },
+   {
+    "name": "韓国",
+    "total": 2581,
+    "values": [
+     802,
+     726,
+     198,
+     103,
+     743,
+     9
+    ]
+   },
+   {
+    "name": "台湾",
+    "total": 3618,
+    "values": [
+     1140,
+     757,
+     313,
+     120,
+     1286,
+     2
+    ]
+   },
+   {
+    "name": "香港",
+    "total": 1439,
+    "values": [
+     462,
+     350,
+     124,
+     42,
+     461,
+     0
+    ]
+   },
+   {
+    "name": "中国",
+    "total": 2635,
+    "values": [
+     737,
+     534,
+     173,
+     104,
+     1086,
+     2
+    ]
+   },
+   {
+    "name": "タイ",
+    "total": 732,
+    "values": [
+     265,
+     165,
+     67,
+     21,
+     214,
+     0
+    ]
+   },
+   {
+    "name": "シンガポール",
+    "total": 608,
+    "values": [
+     250,
+     131,
+     62,
+     16,
+     148,
+     0
+    ]
+   },
+   {
+    "name": "マレーシア",
+    "total": 399,
+    "values": [
+     132,
+     95,
+     42,
+     14,
+     115,
+     0
+    ]
+   },
+   {
+    "name": "インドネシア",
+    "total": 433,
+    "values": [
+     189,
+     76,
+     40,
+     24,
+     104,
+     0
+    ]
+   },
+   {
+    "name": "フィリピン",
+    "total": 454,
+    "values": [
+     137,
+     91,
+     44,
+     21,
+     162,
+     0
+    ]
+   },
+   {
+    "name": "ベトナム",
+    "total": 417,
+    "values": [
+     168,
+     90,
+     37,
+     8,
+     115,
+     0
+    ]
+   },
+   {
+    "name": "インド",
+    "total": 386,
+    "values": [
+     152,
+     70,
+     58,
+     17,
+     88,
+     0
+    ]
+   },
+   {
+    "name": "英国",
+    "total": 689,
+    "values": [
+     334,
+     156,
+     85,
+     33,
+     81,
+     0
+    ]
+   },
+   {
+    "name": "ドイツ",
+    "total": 472,
+    "values": [
+     242,
+     96,
+     56,
+     15,
+     63,
+     0
+    ]
+   },
+   {
+    "name": "フランス",
+    "total": 572,
+    "values": [
+     239,
+     109,
+     65,
+     26,
+     132,
+     0
+    ]
+   },
+   {
+    "name": "イタリア",
+    "total": 289,
+    "values": [
+     130,
+     70,
+     39,
+     13,
+     38,
+     0
+    ]
+   },
+   {
+    "name": "スペイン",
+    "total": 211,
+    "values": [
+     85,
+     46,
+     36,
+     6,
+     37,
+     0
+    ]
+   },
+   {
+    "name": "ロシア",
+    "total": 276,
+    "values": [
+     94,
+     51,
+     29,
+     9,
+     92,
+     0
+    ]
+   },
+   {
+    "name": "米国",
+    "total": 3860,
+    "values": [
+     1607,
+     799,
+     444,
+     230,
+     779,
+     1
+    ]
+   },
+   {
+    "name": "カナダ",
+    "total": 676,
+    "values": [
+     247,
+     147,
+     92,
+     29,
+     162,
+     0
+    ]
+   },
+   {
+    "name": "メキシコ",
+    "total": 282,
+    "values": [
+     103,
+     55,
+     32,
+     18,
+     74,
+     0
+    ]
+   },
+   {
+    "name": "オーストラリア",
+    "total": 1050,
+    "values": [
+     454,
+     215,
+     118,
+     65,
+     198,
+     0
+    ]
+   },
+   {
+    "name": "北欧",
+    "total": 217,
+    "values": [
+     90,
+     53,
+     27,
+     15,
+     33,
+     0
+    ]
+   },
+   {
+    "name": "中東",
+    "total": 400,
+    "values": [
+     155,
+     73,
+     41,
+     17,
+     115,
+     0
+    ]
+   },
+   {
+    "name": "その他",
+    "total": 2428,
+    "values": [
+     994,
+     512,
+     304,
+     121,
+     494,
+     4
+    ]
+   }
+  ],
+  "perCapita": null
+ }
+]

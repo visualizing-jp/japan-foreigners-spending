@@ -8,13 +8,16 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import type { SpendingJson } from "../src/lib/data/cube.ts";
-import { CATEGORIES, TOTAL } from "../src/lib/data/sources.ts";
-import type { SpendingDoc } from "../src/lib/parse/types.ts";
+import { PREFECTURES } from "../src/lib/data/labels.ts";
+import { CATEGORIES, PLACE_CATEGORIES, TOTAL } from "../src/lib/data/sources.ts";
+import type { PlacePeriod, SpendingDoc } from "../src/lib/parse/types.ts";
 
 const IN_PATH = resolve(import.meta.dirname, "../data/normalized/docs.json");
+const PLACES_PATH = resolve(import.meta.dirname, "../data/normalized/places.json");
 const OUT_DIR = resolve(import.meta.dirname, "../public/data");
 
 const docs = JSON.parse(await readFile(IN_PATH, "utf8")) as SpendingDoc[];
+const places = JSON.parse(await readFile(PLACES_PATH, "utf8")) as PlacePeriod[];
 const years = [...new Set(docs.map((d) => d.year))];
 const docsOf = (year: number) => docs.filter((d) => d.year === year);
 
@@ -61,6 +64,21 @@ function categoryOf(ci: number, name: string, year: number): number | null {
   return sumAll(ds.map((d) => d.byCategory!.find((r) => r.name === name)?.values[ci]));
 }
 
+const prefYears = [...new Set(places.map((p) => p.year))];
+const placesOf = (year: number) => places.filter((p) => p.year === year);
+
+function placeTotal(pref: string, year: number): number {
+  return sumAll(placesOf(year).map((p) => p.rows.find((r) => r.name === pref)?.total))!;
+}
+
+function placeVisitorsOf(pref: string, year: number): number {
+  return sumAll(placesOf(year).map((p) => p.rows.find((r) => r.name === pref)?.visitors))!;
+}
+
+function placeCategoryOf(ci: number, pref: string, year: number): number {
+  return sumAll(placesOf(year).map((p) => p.rows.find((r) => r.name === pref)?.values[ci]))!;
+}
+
 const json: SpendingJson = {
   years,
   status: years.map((y) => docsOf(y)[0]!.status),
@@ -73,6 +91,12 @@ const json: SpendingJson = {
   perCapita: names.map((n) => years.map((y) => perCapitaOf(n, y))),
   categories: [...CATEGORIES],
   byCategory: CATEGORIES.map((_, ci) => names.map((n) => years.map((y) => categoryOf(ci, n, y)))),
+  prefYears,
+  prefectures: [...PREFECTURES],
+  placeCategories: [...PLACE_CATEGORIES],
+  byPrefecture: PREFECTURES.map((pref) => prefYears.map((y) => placeTotal(pref, y))),
+  placeCategory: PLACE_CATEGORIES.map((_, ci) => PREFECTURES.map((pref) => prefYears.map((y) => placeCategoryOf(ci, pref, y)))),
+  placeVisitors: PREFECTURES.map((pref) => prefYears.map((y) => placeVisitorsOf(pref, y))),
 };
 
 await mkdir(OUT_DIR, { recursive: true });

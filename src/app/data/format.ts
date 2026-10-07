@@ -20,6 +20,16 @@ export function yenMan(n: number): string {
   return `${one.format(n / 10_000)}万円`;
 }
 
+/** 万円の値。「15.1万円」。 */
+export function manYen(n: number): string {
+  return `${one.format(n)}万円`;
+}
+
+/** 万人の値。「236.3万人」。 */
+export function mannin(n: number): string {
+  return `${one.format(n)}万人`;
+}
+
 export function pct(share: number): string {
   return `${one.format(share * 100)}%`;
 }

@@ -21,6 +21,7 @@ export const REST_COLOR = "#d9d4ca";
 export const PICK_COLOR = "#16140f";
 
 export const CATEGORY_COLORS: Record<string, string> = {
+  団体・パック参加費: "#3f8f8f",
   宿泊費: "#2f5d8a",
   飲食費: "#c9893a",
   交通費: "#4f7d5c",

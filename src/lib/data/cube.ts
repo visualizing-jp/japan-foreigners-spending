@@ -19,4 +19,14 @@ export interface SpendingJson {
   categories: string[];
   /** 費目別の旅行消費額（億円）。[費目][国籍・地域][年]。 */
   byCategory: (number | null)[][][];
+  /** 都道府県の表がある年。2018・2019・2024–。 */
+  prefYears: number[];
+  prefectures: string[];
+  placeCategories: string[];
+  /** prefectures × prefYears。旅行消費額（億円）。 */
+  byPrefecture: number[][];
+  /** placeCategories × prefectures × prefYears。 */
+  placeCategory: number[][][];
+  /** prefectures × prefYears。訪問者数（万人）。 */
+  placeVisitors: number[][];
 }

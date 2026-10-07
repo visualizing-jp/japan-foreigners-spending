@@ -27,3 +27,22 @@ export interface SpendingDoc {
   byCategory: CategoryRow[] | null;
   perCapita: PerCapitaRow[] | null;
 }
+
+/** 都道府県別の旅行消費額（億円）。values は PLACE_CATEGORIES の順。 */
+export interface PlaceRow {
+  name: string;
+  /** 訪問者数（万人）。 */
+  visitors: number;
+  /** 消費単価（万円／人）。 */
+  unit: number;
+  total: number;
+  values: number[];
+}
+
+export interface PlacePeriod {
+  period: string;
+  year: number;
+  quarter: number | null;
+  status: Status;
+  rows: PlaceRow[];
+}

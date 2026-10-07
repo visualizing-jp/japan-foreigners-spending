@@ -2,6 +2,7 @@ import { Suspense } from "react";
 import { EraView } from "./views/EraView.tsx";
 import { MarketsView } from "./views/MarketsView.tsx";
 import { CategoryView } from "./views/CategoryView.tsx";
+import { PlacesView } from "./views/PlacesView.tsx";
 import { useUrlState } from "./hooks/useUrlState.ts";
 import { SeriesBar, SeriesFooter } from "./components/Brand.tsx";
 
@@ -9,6 +10,7 @@ const VIEWS = [
   { id: "era", label: "時代", hint: "2010–" },
   { id: "markets", label: "国・地域", hint: "2010–" },
   { id: "category", label: "費目", hint: "2015–" },
+  { id: "places", label: "都道府県", hint: "2018–" },
 ] as const;
 
 type ViewId = (typeof VIEWS)[number]["id"];
@@ -48,12 +50,14 @@ export function App() {
         {view === "era" && <EraView />}
         {view === "markets" && <MarketsView />}
         {view === "category" && <CategoryView />}
+        {view === "places" && <PlacesView />}
       </Suspense>
 
       <footer className="mx-auto w-full max-w-[1240px] px-6 pt-2 pb-10 text-[11px] leading-relaxed text-faint">
         出典: 観光庁「インバウンド消費動向調査」（2024年1–3月期までは「訪日外国人消費動向調査」）の各年の年間値の報告書・集計結果と、当年の四半期の2次速報。
         2010–2018・2020・2021年の資料は国立国会図書館インターネット資料収集保存事業（WARP）で保存されたもの。
         旅行消費額は訪日外国人旅行者が日本滞在中に支出した額で、日本に住む外国人を含まない。
+        都道府県はB1地域調査（一般客）の2018・2019年と2024年以降。県の和は全国と一致しない。
         各年の値は費目の和、国籍・地域の和、1人当たり旅行支出×旅行者数と突き合わせて一致を確かめている。
         <SeriesFooter />
       </footer>

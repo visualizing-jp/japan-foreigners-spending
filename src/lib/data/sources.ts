@@ -216,3 +216,74 @@ export const DOCS: SourceDoc[] = [
 export const CATEGORIES = ["宿泊費", "飲食費", "交通費", "娯楽等サービス費", "買物代", "その他"] as const;
 
 export const TOTAL = "全国籍・地域";
+
+/**
+ * 都道府県別集計表（B1地域調査、一般客）。2018・2019年と2024年以降。
+ * 2020–2022年は調査中止。2023年は4–12月の参考値しかなく、年間値がない。
+ * 県の和は全国の旅行消費額と一致しない（都道府県間交通費と訪問地不明を含まない）。
+ */
+export interface PlaceDoc {
+  period: string;
+  year: number;
+  quarter: number | null;
+  status: Status;
+  url: string;
+}
+
+export const PLACE_DOCS: PlaceDoc[] = [
+  {
+    period: "2018",
+    year: 2018,
+    quarter: null,
+    status: "annual",
+    url: `${WARP}/kankocho/siryou/toukei/content/001345788.xlsx`,
+  },
+  {
+    period: "2019",
+    year: 2019,
+    quarter: null,
+    status: "annual",
+    url: `${CURRENT}/002020406.xlsx`,
+  },
+  {
+    period: "2024",
+    year: 2024,
+    quarter: null,
+    status: "annual",
+    url: `${CURRENT}/002020222.xlsx`,
+  },
+  {
+    period: "2025",
+    year: 2025,
+    quarter: null,
+    status: "annual",
+    url: `${CURRENT}/002020056.xlsx`,
+  },
+  {
+    period: "2026Q1",
+    year: 2026,
+    quarter: 1,
+    status: "preliminary",
+    url: `${CURRENT}/002024447.xlsx`,
+  },
+  {
+    period: "2026Q2",
+    year: 2026,
+    quarter: 2,
+    status: "preliminary",
+    url: `${CURRENT}/002024948.xlsx`,
+  },
+];
+
+/** 都道府県表の費目。全国の6費目に、団体・パック参加費の訪問地収入分が先頭に付く。 */
+export const PLACE_CATEGORIES = [
+  "団体・パック参加費",
+  "宿泊費",
+  "飲食費",
+  "交通費",
+  "娯楽等サービス費",
+  "買物代",
+  "その他",
+] as const;
+
+export type PlaceCategory = (typeof PLACE_CATEGORIES)[number];

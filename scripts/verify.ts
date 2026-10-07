@@ -4,6 +4,7 @@
  * - 費目別: 6費目の和 = 総額、国籍・地域の和 = 全国籍（総額・費目ごと）
  * - 1人当たり: 1人当たり支出 × 旅行者数 = 消費額、国籍・地域の和 = 全国籍
  * - 2017年以前は2表の国籍・地域別の消費額が一致する（2018年以降、1人当たりの表は一般客だけ）
+ * - 都道府県: 47県、訪問者数×単価＝消費額、費目の和＝総額。2024・2025年は【参考2】と一致
  *
  * 表の値は億円・円に四捨五入されているので、足し合わせる項目の数の半分まで差を許す。
  *
@@ -12,8 +13,11 @@
 
 import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { CATEGORIES, TOTAL } from "../src/lib/data/sources.ts";
-import type { SpendingDoc } from "../src/lib/parse/types.ts";
+import { PREFECTURES } from "../src/lib/data/labels.ts";
+import { CATEGORIES, PLACE_CATEGORIES, TOTAL } from "../src/lib/data/sources.ts";
+import { readReference2 } from "../src/lib/parse/places.ts";
+import type { PlacePeriod, SpendingDoc } from "../src/lib/parse/types.ts";
+import { rawPath } from "./fetch-data.ts";
 
 const docs = JSON.parse(
   await readFile(resolve(import.meta.dirname, "../data/normalized/docs.json"), "utf8"),
@@ -82,6 +86,35 @@ expect(
   years.every((y, i) => i === 0 || y === years[i - 1]! + 1),
   `年が連続しない: ${years.join(",")}`,
 );
+
+const places = JSON.parse(
+  await readFile(resolve(import.meta.dirname, "../data/normalized/places.json"), "utf8"),
+) as PlacePeriod[];
+const round1 = (n: number) => Math.round(n * 10) / 10;
+for (const p of places) {
+  const where = `${p.period} 都道府県`;
+  expect(p.rows.length === PREFECTURES.length, `${where}: ${p.rows.length}行`);
+  expect(
+    p.rows.every((r, i) => r.name === PREFECTURES[i]),
+    `${where}: 都道府県の並びが違う`,
+  );
+  for (const r of p.rows) {
+    expect(near(r.visitors * r.unit, r.total, 1) || Math.abs(r.visitors * r.unit - r.total) <= 1, `${where} ${r.name}: 訪問者数×単価 ${r.visitors * r.unit} ≠ 消費額 ${r.total}`);
+    expect(near(sum(r.values), r.total, PLACE_CATEGORIES.length), `${where} ${r.name}: 費目の和 ${sum(r.values)} ≠ 総額 ${r.total}`);
+  }
+  if (p.quarter === null && (p.year === 2024 || p.year === 2025)) {
+    const ref = readReference2(rawPath(p));
+    for (const r of p.rows) {
+      const published = ref.get(r.name)!;
+      expect(round1(r.visitors) === published.visitors, `${where} ${r.name}: 参考2の訪問者数 ${published.visitors} ≠ ${round1(r.visitors)}`);
+      expect(round1(r.unit) === published.unit, `${where} ${r.name}: 参考2の単価 ${published.unit} ≠ ${round1(r.unit)}`);
+      expect(
+        Math.abs(Math.round(r.total) - published.total) <= 1,
+        `${where} ${r.name}: 参考2の消費額 ${published.total} ≠ ${Math.round(r.total)}`,
+      );
+    }
+  }
+}
 
 if (failures.length > 0) {
   console.error(failures.map((f) => `  ✗ ${f}`).join("\n"));
